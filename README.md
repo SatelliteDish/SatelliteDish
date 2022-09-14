@@ -1,0 +1,44 @@
+<div id="header" align="center">
+	<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+	<div id="badges">
+		<a href="https://linktr.ee/sortofrad">
+			<img src="https://img.shields.io/badge/LinkTree-mintgreen?logo=linktree&logoColor=white&style=for-the-badge alt="LinkTree Badge>
+		</a>
+		<a href= "https://linkedin.com/in/michael-vitale-9382051bb">
+			<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge alt="LinkedIn Badge>
+		</a>
+		<a href="https://leetcode.com/Rad_ish">
+			<img src="https://img.shields.io/badge/LeetCode-grey?logo=leetcode&logoColor=white&style=for-the-badge alt="LeetCode Badge>
+		</a>
+	</div>
+	<img src="https://komarev.com/ghpvc/?username=SatelliteDish&style=flat-square&color=blue">
+	<h1>
+		Welcome to my Github Profile!
+	</h1>
+</div>
+	
+---
+## 👨‍💻 About Me:
+I am an Indie Game Developer from Vancouver, Canada!
+
+- 🎮 Currently Project: Cat Attack! An infinite runner for Android, made using Unity
+- 📘 Currently Reading: The Rust Programming Language
+- 🌱 Always looking for opportunities to learn
+- 📫 How to reach me: [![LinkTree Badge](https://img.shields.io/badge/LinkTree-mintgreen?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/sortofrad)
+
+---
+### 🛠️Languages and Tools :
+<div>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="CSharp" width="40" height="40">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="RustLang" width="40" height="40">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" width="40" height="40">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="40" height="40">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" width="40" height="40">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" width="40" height="40">
+</div>
+
+---
+### :fire: My Stats :fire:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SatelliteDish&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatelliteDish)](https://github.com/anuraghazra/github-readme-stats)
