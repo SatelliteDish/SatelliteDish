@@ -41,3 +41,10 @@ I am an Indie Game Developer from Vancouver, Canada!
 - 📘 Currently Reading: The Rust Programming Language
 - 🌱 Always looking for opportunities to learn
 - 📫 How to reach me: [![LinkTree Badge](https://img.shields.io/badge/LinkTree-mintgreen?logo=linktree&logoColor=black&style=for-the-badge)](https://linktr.ee/sortofrad) or send me an email at sortofrad@gmail.com
+
+---
+<div align="center">
+	<p>
+		I'm working on getting my Unity game uploaded to my account as well, it's my first project that wasn't following a tutorial so I've put it off for a while. I'm also refactoring it, some of the scripts haven't been touched since about a month after I started coding, so they're pretty rough. Hopefully I can get around to getting it up here sometime soon
+	</p>
+</div>
