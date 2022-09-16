@@ -38,7 +38,7 @@
 I am an Indie Game Developer from Vancouver, Canada!
 
 - 🎮 Current Project: Cat Attack! An infinite runner for Android, made using Unity
-- 📘 Currently Reading: The Rust Programming Language
+- 📘 Currently Reading: The Rust Programming Language & Cracking the Coding Interview
 - 🌱 Always looking for opportunities to learn
 - 📫 How to reach me: [![LinkTree Badge](https://img.shields.io/badge/LinkTree-mintgreen?logo=linktree&logoColor=black&style=for-the-badge)](https://linktr.ee/sortofrad) or send me an email at sortofrad@gmail.com
 
