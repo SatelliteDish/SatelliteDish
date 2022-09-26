@@ -19,6 +19,8 @@
 	<h3>🛠️Languages and Tools :</h3>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="CSharp" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="RustLang" width="40" height="40">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JS" width="40" height="40">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" width="40" height="40">
