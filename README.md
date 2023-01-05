@@ -17,11 +17,9 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="CSharp" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="RustLang" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="JavaScript" alt="JS" width="40" height="40">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="40" height="40">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" width="40" height="40">
 </div>
@@ -35,16 +33,10 @@
 
 ---
 ## 👨‍💻 About Me:
-I am an Indie Game Developer from Vancouver, Canada!
+I am a self taught developer from Vancouver! 
 
-- 🎮 Current Project: Cat Attack! An infinite runner for Android, made using Unity
-- 📘 Currently Reading: The Rust Programming Language & Cracking the Coding Interview
+- 🛠️ Current Project: A companion app for Dungeons and Dragons, made using Ionic, Vue3, and Typescript
+- 📘 Currently Preparing for an CBJam 2023
 - 🌱 Always looking for opportunities to learn
-- 📫 How to reach me: [![LinkTree Badge](https://img.shields.io/badge/LinkTree-mintgreen?logo=linktree&logoColor=black&style=for-the-badge)](https://linktr.ee/sortofrad) or send me an email at sortofrad@gmail.com
+- 📫 How to reach me: [![LinkTree Badge](https://img.shields.io/badge/LinkTree-mintgreen?logo=linktree&logoColor=black&style=for-the-badge)](https://linktr.ee/sortofrad)
 
----
-<div align="center">
-	<p>
-		I'm working on getting my Unity game uploaded to my account as well, it's my first project that wasn't following a tutorial so I've put it off for a while. I'm also refactoring it, some of the scripts haven't been touched since about a month after I started coding, so they're pretty rough. Hopefully I can get around to getting it up here sometime soon
-	</p>
-</div>
