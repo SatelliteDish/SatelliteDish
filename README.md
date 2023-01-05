@@ -4,9 +4,6 @@
 		<a href="https://linktr.ee/sortofrad">
 			<img src="https://img.shields.io/badge/LinkTree-mintgreen?logo=linktree&logoColor=black&style=for-the-badge" alt="LinkTree Badge">
 		</a>
-		<a href="https://leetcode.com/Rad_ish">
-			<img src="https://img.shields.io/badge/LeetCode-grey?logo=leetcode&logoColor=orange&style=for-the-badge" alt="LeetCode Badge">
-		</a>
 	</div>
 	<img src="https://komarev.com/ghpvc/?username=SatelliteDish&style=flat-square&color=blue">
 	<h1>
