@@ -63,5 +63,5 @@ Some of the things on here are unfinished projects and/or some very early projec
 - [X] Pragmatic Programmer
 - [X] Unicorn Project
 - [X] Pheonix Project
-- [] The Rust Programming Language (50%)
-- [] The Dev Ops Handbook
+- [ ] The Rust Programming Language (50%)
+- [ ] The Dev Ops Handbook
