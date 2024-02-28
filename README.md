@@ -21,3 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SatelliteDish&show_icons=true&theme=tokyonight&title_color="00FFFFFF">
 </div>
 
+<p>
+  I am a software developer from Vancouver, Canada. My favourite and most used languages are C#, Javascript, and Powershell, but I enjoy playing around in new languages and technologies all the time. I like to make tools to help me in my hobbies and my job, and when I have the time I enjoy making games in Godot. I'm particularly interested in PCG in general, and I am currently trying to increase my knowledge on C#.
+</p>
