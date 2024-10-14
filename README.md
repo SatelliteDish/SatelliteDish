@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
     <a href="mailto:michael@sortofrad.com">
-    Email Me!
+    <img src="https://img.shields.io/badge/Email_Me!-blue?style=for-the-badge" />
   </a>
 </div>
 
