@@ -22,5 +22,9 @@
 </div>
 
 <p>
-  I am a software developer from Vancouver, Canada. My favourite and most used languages are C#, Javascript, and Powershell, but I enjoy playing around in new languages and technologies all the time. I like to make tools to help me in my hobbies and my job, and when I have the time I enjoy making games in Godot. I'm particularly interested in PCG in general, and I am currently trying to increase my knowledge on C#.
+  I am a software developer from Nanaimo, Canada. My favourite and most used languages are Rust, Typescript, and Powershell, but I enjoy playing around in new languages and technologies all the time. I like to make tools to help me in my hobbies and my job, and when I have the time I enjoy making games in Godot. I'm currently working for Not-Socials to build their technical infrastructure!
 </p>
+
+---
+
+<p>I am a diehard Rustacean, I have used many languages and nothing hits me the way Rust does. I truly believe NextJS is the future of the web, feel free to debate me about it. I used to think all web frameworks were doomed to die due to performance, SEO, and security issues, but Next has shown me that frameworks that are well designed can fix all those problems and even do things that would be incredibly hard with the newest Ecmascript and HTML features. I'm working on adding all my projects to my profile and improving my documentation. Please send a PR or email if you have any suggestions or want to collaborate!</p>
