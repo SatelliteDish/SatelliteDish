@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="Javascript" width="100" height="100">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="C#" alt="CSharp" width="120" height="120">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="120" height="120">
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-plain.svg" title="PS" alt="Powershell" width="100" height="100">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CCS3" alt="CCS3" width="80" height="80">
 </div>
