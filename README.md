@@ -7,7 +7,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a2e4a?style=for-the-badge&logo=linkedin&logoColor=2a9d8f)](https://linkedin.com/in/michael-a-j-vitale)
 [![Not Socials](https://img.shields.io/badge/Not%20Socials-1a2e4a?style=for-the-badge&logoColor=2a9d8f)](https://notsocials.com)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-1a2e4a?style=for-the-badge&logo=hackthebox&logoColor=2a9d8f)](https://app.hackthebox.com/users/1729176)
 
 </div>
 
